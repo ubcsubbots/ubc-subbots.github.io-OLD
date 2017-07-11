@@ -9,20 +9,20 @@ description: "Presenting UBC Subbots, a collaboration between Subc and UBC Snowb
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Vincent Yuan
   pic: 1
-  position: Lead Designer
+  position: Founder
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
+    - title: github
+      url: http://github.com/Dulluhan
+    - title: linkedin
+      url: 
+    - title: code
       url: #
 
-- name: Larry Parker
+- name: Simon Honigmann
   pic: 2
-  position: Lead Marketer
+  position: Founder
   social:
     - title: twitter
       url: #
@@ -31,16 +31,6 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
