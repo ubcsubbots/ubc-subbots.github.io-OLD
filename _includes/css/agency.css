@@ -200,6 +200,8 @@ fieldset[disabled] .btn-xl.active {
     background-color: #fff;
 }
 
+
+
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
     background-color: #{{ site.data.template.color.primary }};
@@ -234,7 +236,7 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.data.template.color.secondary }};
 }
 
-@media(min-width:768px) {
+@media(min-width:768 px) {
     .navbar-default {
         padding: 25px 0;
         border: 0;
@@ -279,8 +281,8 @@ header {
 }
 
 header .intro-text {
-    padding-top: 100px;
-    padding-bottom: 50px;
+    padding-top: 40px;
+    padding-bottom: 30px;
 }
 
 header .intro-text .intro-lead-in {
@@ -302,8 +304,9 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
-        padding-bottom: 200px;
+        padding-top: 100px;
+        padding-bottom: 50px;
+        padding-right: 0px;
     }
 
     header .intro-text .intro-lead-in {
