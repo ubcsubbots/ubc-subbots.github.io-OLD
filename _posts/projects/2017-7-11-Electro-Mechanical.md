@@ -2,6 +2,7 @@
 title: Electromechanical Systems
 subtitle:
 layout: default
+category: projects
 modal-id: 2
 date: 2017-7-16
 img: gripper.png
