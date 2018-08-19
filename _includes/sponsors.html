@@ -8,9 +8,9 @@
         </div>
         <div class="row">
             {% for post in site.posts %}
-            {% if post.categories contains 'sponsors' %}
+            {% if post.category contains 'sponsors' %}
             <div class="col-sm-2 col-sm-3 image-item">
-                <img src="img/sponsors/{{ post.thumbnail }}" class="img-responsive" alt="">
+                <img src="/img/sponsors/{{ post.thumbnail }}" class="img-responsive" alt="">
             </div>
             {% endif %}
             {% endfor %}
